@@ -1,7 +1,9 @@
 # 💫 About Me:
-Hello, I'm Intiser 👋<br><br>I'm a software developer with a passion for building innovative solutions that improve people's lives. Currently, I'm working on a couple of exciting projects:<br><br>
+
+Hello, I'm Intiser 👋<br><br>I'm a software developer with a passion for building innovative solutions that improve people's lives. You can find more in my portfolio site : intiserahmed.online  .Currently, I'm working on a couple of exciting projects:<br><br>
 Gazey Talk: An AAC App partnership with Microsoft,seamlessly run on IOS/Android with Eye Tracking, SwiftUI, Swift, Jetpack Compose, Kotlin, Open AI [Released Testflight]  <br>
 [![Watch one of the Key Feature video](https://img.youtube.com/vi/rSCuDEtbWgM/0.jpg)](https://www.youtube.com/watch?v=rSCuDEtbWgM)
+
 
 <br> Vision OS Apps: Started Developing New Vision Apps which will be released soon in the App Store. <br><br>I'm always looking to collaborate on open source projects and learn new things. Currently, I'm focusing on learning more about distributed systems and exploring ways to apply this knowledge to my work.<br><br>If you're interested in working together or have any questions, feel free to get in touch. Let's create something amazing!
 
