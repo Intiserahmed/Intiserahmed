@@ -4,7 +4,6 @@
 I’m a software developer driven by impact — building solutions at the intersection of <strong>Healthcare, accessibility, AI, and mobile technology</strong>.</p>
 
 <p>I'm currently leading the development of <strong>Gazey Talk</strong>, an assistive communication app built in partnership with <strong>Microsoft for Startups</strong>. It enables users with paralysis to communicate using <strong>eye and face gestures</strong>. The app supports over 9 gestures, real-time speech output, and AI-based predictions.<br>
-Built with <em>SwiftUI, Combine, Jetpack Compose, OpenAI, and AVFoundation</em>, it's available on both iOS and Android via TestFlight.</p>
 
 
 
