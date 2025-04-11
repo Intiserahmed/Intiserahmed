@@ -1,11 +1,18 @@
-# 💫 About Me:
+# 🧑‍💻 About Me:
 
-Hello, I'm Intiser 👋<br><br>I'm a software developer with a passion for building innovative solutions that improve people's lives. You can find more in my portfolio site : [Portfolio Site](https://intiserahmed.online/)  .Currently, I'm working on a couple of exciting projects:<br><br>
-Gazey Talk: An AAC App partnership with Microsoft,seamlessly run on IOS/Android with Eye Tracking, SwiftUI, Swift, Jetpack Compose, Kotlin, Open AI [Released Testflight]  <br>
-[![Watch one of the Key Feature video](https://img.youtube.com/vi/rSCuDEtbWgM/0.jpg)](https://www.youtube.com/watch?v=rSCuDEtbWgM)
+<p>Hi, I’m <strong>Intiser</strong> 👋<br>
+I’m a software developer driven by impact — building solutions at the intersection of <strong>Healthcare, accessibility, AI, and mobile technology</strong>.</p>
+
+<p>I'm currently leading the development of <strong>Gazey Talk</strong>, an assistive communication app built in partnership with <strong>Microsoft for Startups</strong>. It enables users with paralysis to communicate using <strong>eye and face gestures</strong>. The app supports over 9 gestures, real-time speech output, and AI-based predictions.<br>
+Built with <em>SwiftUI, Combine, Jetpack Compose, OpenAI, and AVFoundation</em>, it's available on both iOS and Android via TestFlight.</p>
 
 
-<br> Vision OS Apps: Started Developing New Vision Apps which will be released soon in the App Store. <br><br>I'm always looking to collaborate on open source projects and learn new things. Currently, I'm focusing on learning more about distributed systems and exploring ways to apply this knowledge to my work.<br><br>If you're interested in working together or have any questions, feel free to get in touch. Let's create something amazing!
+
+<p>Previously, I worked as a iOS Engineer at <strong>SmartWalkie (Singapore)</strong>, optimized AI-integrated Flutter tools at <strong>Continental AG</strong>, and contributed to full-stack + IoT ecosystems at <strong>Atsign (USA)</strong>.</p>
+
+<p>I’ve mentored at global hackathons like <strong>Stanford TreeHacks</strong>, <strong>HackPrinceton</strong>, and <strong>CalHacks</strong>, and led community innovation as a <strong>Google Developer Student Club Lead</strong>.</p>
+
+<p>🔗 Explore more on my <a href="https://intiserahmed.online" target="_blank">portfolio site</a><br>
 
 
 ## 🌐 Socials:
